@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2018-07-23 20:33:19</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-23 20:32:14</sys_created_on>
+        <sys_id>d00e7560d06713007f44ce978e73d6be</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>3f98dd2b73f63d6ac4bb8206dd2114c121cf9f9830129a2a90e4a15a0f9c7491</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">322b8524d02713007f44ce978e73d6b8</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="Loaner Request">322b8524d02713007f44ce978e73d6b8</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_d00e7560d06713007f44ce978e73d6be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-23 20:33:19</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>3f98dd2b73f63d6ac4bb8206dd2114c121cf9f9830129a2a90e4a15a0f9c7491</token>
+    </sys_push_notif_app_install>
+</record_update>
